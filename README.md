@@ -5,7 +5,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][https://choosealicense.com/licenses/mit/]
+[![MIT License][license-shield]][linkedin-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -85,5 +85,22 @@ Project Link: [https://github.com/seasayNTIC/GAMEWIN](https://github.com/seasayN
 <!-- LICENCE -->
 ## Licence 
 <p align="right" >(<a href="#top">back to top</a>)</p>
+
+
+<!--MARKDOWN LINKS & IMAGES-->
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/seasayNTIC/GAMEWIN.svg?style=for-the-badge
+[contributors-url]: https://github.com/seasayNTIC/GAMEWIN/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/seasayNTIC/GAMEWIN.svg?style=for-the-badge
+[forks-url]: https://github.com/seasayNTIC/GAMEWIN/network/members
+[stars-shield]: https://img.shields.io/github/stars/seasayNTIC/GAMEWIN.svg?style=for-the-badge
+[stars-url]: https://github.com/seasayNTIC/GAMEWIN/stargazers
+[issues-shield]: https://img.shields.io/github/issues/seasayNTIC/GAMEWIN.svg?style=for-the-badge
+[issues-url]: https://github.com/seasayNTIC/GAMEWIN/issues
+[license-shield]: https://img.shields.io/github/license/seasayNTIC/GAMEWIN.svg?style=for-the-badge
+[license-url]: https://github.com/seasayNTIC/GAMEWIN/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: #
 
 
