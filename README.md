@@ -38,7 +38,8 @@ A Software that allows to calculate betting odds online, assess the possibility 
     <a href="#usage">Usage</a>
   </li>
     <li><a href="#support">Support</a></li>
-    <li><a href="#contact">Contact</a></li>   
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#licence">Licence</a></li>
 </ol> 
@@ -77,6 +78,10 @@ Project Link: [https://github.com/seasayNTIC/GAMEWIN](https://github.com/seasayN
 <p align="right" >(<a href="#top">back to top</a>)</p>
 
 
+<!-- CONTRIBUTING -->
+## Contributing
+<p align="right" >(<a href="#top">back to top</a>)</p>
+
 
 <!-- ACKNOWLEDGMENTS -->
 ## Aknowledgments
@@ -84,6 +89,8 @@ Project Link: [https://github.com/seasayNTIC/GAMEWIN](https://github.com/seasayN
 
 <!-- LICENCE -->
 ## Licence 
+`GAMEWIN` is free and open-source software licensed under the 
+[MIT Licence](https://choosealicense.com/licenses/mit/).
 <p align="right" >(<a href="#top">back to top</a>)</p>
 
 
