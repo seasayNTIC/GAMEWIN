@@ -73,7 +73,7 @@ A Software that allows to calculate betting odds online, assess the possibility 
 
 <!-- CONTACT -->
 ## Contact 
-Saliou - [@seasayDev](https://twitter.com/seasayDev) - seasayntic@gmail.com
+Saliou - [@seasayDev](https://twitter.com/seasayDev) - seasayntic@gmail.com <br>
 Project Link: [https://github.com/seasayNTIC/GAMEWIN](https://github.com/seasayNTIC/GAMEWIN)
 <p align="right" >(<a href="#top">back to top</a>)</p>
 
